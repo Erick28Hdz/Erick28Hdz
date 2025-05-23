@@ -53,7 +53,7 @@ Soy el fundador de **ERICK SOFTWARE AND TECHNOLOGY**, una microempresa digital c
 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
-| 🧭 RUMBO | Plantilla de sitio web turístico responsivo | [Ver](https://github.com/Erick28Hdz/rumbo-turismo) |
+| 🧭 RUMBO | Plantilla de landing page turístico responsivo | [Ver]([https://github.com/Erick28Hdz/rumbo-turismo](https://erick28hdz.github.io/PaginaRumbo/)) |
 | 💼 Portafolio Dinámico | Sitio para mostrar proyectos con JSON editable | [Ver](https://github.com/Erick28Hdz/portfolio-dinamico) |
 | 🔐 Login Seguro | Página de inicio de sesión con captcha | [Ver](https://github.com/Erick28Hdz/login-seguro-js) |
 
