@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Erick28Hdz/Erick28Hdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Erick Hernández
+**Desarrollador Full Stack | Ciberseguridad | Automatización | Educación Tecnológica**
 
-Here are some ideas to get you started:
+Bienvenido a mi espacio de proyectos profesionales y educativos. Soy el fundador de **ERICK SOFTWARE AND TECHNOLOGY**, una microempresa enfocada en el desarrollo de software seguro, accesible y funcional para individuos y organizaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Lo que encontrarás aquí:**
+- Scripts de ciberseguridad y automatización
+- Plantillas web personalizables
+- Aplicaciones funcionales (apps, portafolios, login, etc.)
+- Cursos, documentación y contenido educativo
+
+📫 **Contacto**: erick.hdz9628@gmail.com  
+🌐 Pronto: www.ericksat.com
+
+---
+
+🔐 **Tecnologías clave**:  
+`HTML` `CSS` `JavaScript` `TypeScript` `PHP` `Python` `Linux` `Nmap` `Wireshark` `TailwindCSS` `Bootstrap`
