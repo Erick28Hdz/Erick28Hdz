@@ -49,6 +49,15 @@ Soy el fundador de **ERICK SOFTWARE AND TECHNOLOGY**, una microempresa digital c
 
 ---
 
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+| 🧭 RUMBO | Plantilla de sitio web turístico responsivo | [Ver](https://github.com/Erick28Hdz/rumbo-turismo) |
+| 💼 Portafolio Dinámico | Sitio para mostrar proyectos con JSON editable | [Ver](https://github.com/Erick28Hdz/portfolio-dinamico) |
+| 🔐 Login Seguro | Página de inicio de sesión con captcha | [Ver](https://github.com/Erick28Hdz/login-seguro-js) |
+
+
 ## 🧩 Acerca de mí
 
 Desarrollador autodidacta con enfoque **político progresista**, interesado en la **inclusión tecnológica**, la **autonomía digital** y la **educación libre**. Creo en una tecnología al servicio de las personas, no solo de las corporaciones.
